@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi there 👋, I'm Nikhil ​✨
 
-<!--
-**Nikhilps0/Nikhilps0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a **Senior Infrastructure Analyst** with expertise in:
+- **Linux Server Management** 🐧
+- **Kubernetes (K8s) Administration** ☸️
+- **Containerization (Docker, Podman, etc.)** 🐳
+- **Monitoring & Observability** 📊 (Grafana, Prometheus, cAdvisor, Node Exporter, Windows Exporter, Blackbox Exporter)
+- **Ansible Automation** 🤖 (Ansible Semaphore, Infrastructure as Code)
+- **SSL Certificates & Web Security** 🔒
+- **Cloud & DevOps Practices** ☁️
 
-Here are some ideas to get you started:
+## 🛠️ Projects & Learning
+- 📌 Currently setting up **Tutor (Edly) with Nginx and SSL** for secure e-learning deployments.
+- ⚙️ Built a **Kubernetes cluster** (1 master, 2 workers) and configured monitoring with **Prometheus & Grafana**.
+- 🔄 Automated infrastructure tasks using **Ansible Semaphore**.
+- 🎯 Constantly improving my Kubernetes and cloud skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect With Me
+- 🏗️ GitHub: [Your GitHub Profile](https://github.com/nikhilps0)
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/nikhilps97)
+- 📧 Email: [Your Email](mailto:nikhil.jolju@gmail.com)
+
+💡 Always open to collaboration and learning new technologies! 🚀
+
+
