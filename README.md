@@ -17,9 +17,9 @@ I'm a **Senior Infrastructure Analyst** with expertise in:
 - 🎯 Constantly improving my Kubernetes and cloud skills.
 
 ## 📫 Connect With Me
-- 🏗️ GitHub: [Your GitHub Profile](https://github.com/nikhilps0)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/nikhilps97)
-- 📧 Email: [Your Email](mailto:nikhil.jolju@gmail.com)
+- 🏗️ GitHub: [GitHub Profile](https://github.com/nikhilps0)
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/nikhilps97)
+- 📧 Email: [Email](mailto:nikhil.jolju@gmail.com)
 
 💡 Always open to collaboration and learning new technologies! 🚀
 
